@@ -1,46 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\",
+  "WorkspaceRootPath": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\FormWindow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\laptrinhtrucquan\\btl\\qlrapphim\\qlrapphim\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\laptrinhtrucquan\\btl\\qlrapphim\\qlrapphim\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\laptrinhtrucquan\\btl\\qlrapphim\\qlrapphim\\frmfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\frmfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\qlrapphim\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\qlrapphim\\frmregis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\frmregis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\qlrapphim\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|d:\\t\u00E0i li\u1EC7u\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\btl\\formwindow\\qlrapphim\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\laptrinhtrucquan\\btl\\qlrapphim\\qlrapphim\\frmfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\frmfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\qlrapphim\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\qlrapphim\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\qlrapphim\\frmregis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AC919B2-FC89-4BFF-B66A-54C1D5346C31}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\frmregis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +14,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -61,132 +33,15 @@
               "Name": "ST:358036584:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmFilm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmFilm.cs",
-              "RelativeDocumentMoniker": "QLRapPhim\\frmFilm.cs",
-              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmFilm.cs [Design]",
-              "RelativeToolTip": "QLRapPhim\\frmFilm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T14:32:02.859Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmAdmin.cs",
-              "RelativeDocumentMoniker": "QLRapPhim\\frmAdmin.cs",
-              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmAdmin.cs",
-              "RelativeToolTip": "QLRapPhim\\frmAdmin.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAASwDMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T14:26:58.081Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmAdmin.cs",
-              "RelativeDocumentMoniker": "QLRapPhim\\frmAdmin.cs",
-              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmAdmin.cs [Design]",
-              "RelativeToolTip": "QLRapPhim\\frmAdmin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T14:18:50.636Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "frmMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmMain.cs",
+              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\FormWindow\\QLRapPhim\\frmMain.cs",
               "RelativeDocumentMoniker": "QLRapPhim\\frmMain.cs",
-              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmMain.cs [Design]",
+              "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\FormWindow\\QLRapPhim\\frmMain.cs [Design]",
               "RelativeToolTip": "QLRapPhim\\frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T01:40:39.602Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmRegis.cs",
-              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmRegis.cs",
-              "RelativeDocumentMoniker": "QLRapPhim\\frmRegis.cs",
-              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmRegis.cs",
-              "RelativeToolTip": "QLRapPhim\\frmRegis.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T14:05:50.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmLogin.cs",
-              "RelativeDocumentMoniker": "QLRapPhim\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmLogin.cs",
-              "RelativeToolTip": "QLRapPhim\\frmLogin.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAADwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T13:22:44.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmFilm.cs",
-              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmFilm.cs",
-              "RelativeDocumentMoniker": "QLRapPhim\\frmFilm.cs",
-              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmFilm.cs",
-              "RelativeToolTip": "QLRapPhim\\frmFilm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T14:37:15.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmLogin.cs",
-              "RelativeDocumentMoniker": "QLRapPhim\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmLogin.cs [Design]",
-              "RelativeToolTip": "QLRapPhim\\frmLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T01:50:30.874Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmMain.cs",
-              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmMain.cs",
-              "RelativeDocumentMoniker": "QLRapPhim\\frmMain.cs",
-              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmMain.cs",
-              "RelativeToolTip": "QLRapPhim\\frmMain.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAEwBsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T02:18:22.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmRegis.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmRegis.cs",
-              "RelativeDocumentMoniker": "QLRapPhim\\frmRegis.cs",
-              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LapTrinhTrucQuan\\BTL\\QLRapPhim\\QLRapPhim\\frmRegis.cs [Design]",
-              "RelativeToolTip": "QLRapPhim\\frmRegis.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T01:59:33.053Z",
               "EditorCaption": " [Design]"
             }
           ]

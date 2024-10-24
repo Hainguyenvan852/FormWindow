@@ -28,88 +28,64 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnExit = new System.Windows.Forms.Button();
-            this.pnLeft = new System.Windows.Forms.Panel();
             this.pnTop = new System.Windows.Forms.Panel();
             this.pnMain = new System.Windows.Forms.Panel();
-            this.lbTitle = new System.Windows.Forms.Label();
-            this.pnLeft.SuspendLayout();
+            this.button1 = new System.Windows.Forms.Button();
             this.pnTop.SuspendLayout();
             this.SuspendLayout();
             // 
-            // btnExit
-            // 
-            this.btnExit.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.btnExit.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnExit.Location = new System.Drawing.Point(0, 515);
-            this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(200, 38);
-            this.btnExit.TabIndex = 8;
-            this.btnExit.Text = "Thoát";
-            this.btnExit.UseVisualStyleBackColor = true;
-            this.btnExit.Click += new System.EventHandler(this.btnExit_Click_1);
-            // 
-            // pnLeft
-            // 
-            this.pnLeft.Controls.Add(this.btnExit);
-            this.pnLeft.Dock = System.Windows.Forms.DockStyle.Left;
-            this.pnLeft.Location = new System.Drawing.Point(0, 0);
-            this.pnLeft.Name = "pnLeft";
-            this.pnLeft.Size = new System.Drawing.Size(200, 553);
-            this.pnLeft.TabIndex = 9;
-            // 
             // pnTop
             // 
-            this.pnTop.Controls.Add(this.lbTitle);
-            this.pnTop.Dock = System.Windows.Forms.DockStyle.Top;
-            this.pnTop.Location = new System.Drawing.Point(200, 0);
+            this.pnTop.BackColor = System.Drawing.Color.Gainsboro;
+            this.pnTop.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pnTop.Controls.Add(this.button1);
+            this.pnTop.Location = new System.Drawing.Point(48, 11);
+            this.pnTop.Margin = new System.Windows.Forms.Padding(2);
             this.pnTop.Name = "pnTop";
-            this.pnTop.Size = new System.Drawing.Size(752, 130);
+            this.pnTop.Size = new System.Drawing.Size(894, 100);
             this.pnTop.TabIndex = 10;
             // 
             // pnMain
             // 
-            this.pnMain.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pnMain.Location = new System.Drawing.Point(200, 130);
+            this.pnMain.BackColor = System.Drawing.Color.Gainsboro;
+            this.pnMain.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pnMain.Location = new System.Drawing.Point(29, 115);
+            this.pnMain.Margin = new System.Windows.Forms.Padding(2);
             this.pnMain.Name = "pnMain";
-            this.pnMain.Size = new System.Drawing.Size(752, 423);
+            this.pnMain.Size = new System.Drawing.Size(927, 387);
             this.pnMain.TabIndex = 11;
             // 
-            // lbTitle
+            // button1
             // 
-            this.lbTitle.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lbTitle.AutoSize = true;
-            this.lbTitle.Font = new System.Drawing.Font("Arial", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbTitle.Location = new System.Drawing.Point(214, 49);
-            this.lbTitle.Name = "lbTitle";
-            this.lbTitle.Size = new System.Drawing.Size(324, 33);
-            this.lbTitle.TabIndex = 1;
-            this.lbTitle.Text = "Rạp Chiếu Phim Skope";
+            this.button1.Location = new System.Drawing.Point(44, 21);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(164, 53);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
             // 
             // frmMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(952, 553);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ClientSize = new System.Drawing.Size(984, 561);
             this.Controls.Add(this.pnMain);
             this.Controls.Add(this.pnTop);
-            this.Controls.Add(this.pnLeft);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmMain";
             this.Text = "Rạp Chiếu Phim Skope";
             this.Load += new System.EventHandler(this.frmMain_Load);
-            this.pnLeft.ResumeLayout(false);
             this.pnTop.ResumeLayout(false);
-            this.pnTop.PerformLayout();
             this.ResumeLayout(false);
 
         }
 
         #endregion
-        private System.Windows.Forms.Button btnExit;
-        private System.Windows.Forms.Panel pnLeft;
         private System.Windows.Forms.Panel pnTop;
-        private System.Windows.Forms.Label lbTitle;
         private System.Windows.Forms.Panel pnMain;
+        private System.Windows.Forms.Button button1;
     }
 }
 
